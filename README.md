@@ -1,4 +1,4 @@
-# poland-housing-market-analysis
+# Poland-Housing-Market-Analysis
 Time-series econometric analysis of Poland’s housing market and the effects of the Ukrainian refugee influx on housing affordability.
 
 The original compiled dataset used in this project is no longer available.
